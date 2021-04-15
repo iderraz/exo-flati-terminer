@@ -1,0 +1,80 @@
+#section4{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+
+
+
+
+    #divsec41{
+        height: 320px;
+        width: 350px;
+        text-align: start;
+
+        margin-left: 3%;
+        color:#3C454C;
+
+        #boutton{
+            background-color: #73AFF6;
+            height: 30px;
+            border-radius: 10%;
+        }
+    }
+    #divsec42{
+        height: 80%;
+        width: 60%;
+        text-align: center;
+
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+
+        .imageavecfond{
+            height: 100%;
+            width: 30%;
+
+        }
+
+        #imageune{
+            background-image: url(../../../public/img/flati-design-screenshot1.png);
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-color: #3C454C;
+            text-align:center;
+            color: white;
+
+            h3{
+                margin-top: 75%;
+            }
+        }
+        #imagedeux{
+            background-image: url(../../../public/img/flati-design-screenshot2.png);
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-color: #3C454C;
+            text-align:center;
+            color: white;
+            
+            h3{
+                margin-top: 75%;
+            }
+        }
+        #imagetrois{
+            background-image: url(../../../public/img/flati-design-screenshot3.png);
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-color: #3C454C;
+            text-align:center;
+            color: white;
+
+            h3{
+                margin-top: 75%;
+            }
+        }
+        
+    }
+
+
+}

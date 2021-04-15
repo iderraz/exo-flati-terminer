@@ -1,0 +1,37 @@
+#footer{
+    height: 220px;
+    width: 100%;
+    background-color: #1A4EBC;
+
+    #divbleu{
+        height: 70%;
+        width: 100%;
+        text-align: center;
+        color: grey;
+        h2{
+            padding-top: 1%;
+        }
+
+        #icones>i{
+            font-size: 200%;
+            margin: 1%;
+        }
+
+  
+    }
+
+
+
+
+    #footergris{
+        height: 30%;
+        width: 100%;
+        background-color: #2D3552;
+        z-index: 1;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        color: grey;
+        padding-top: 1%;
+    }
+}
